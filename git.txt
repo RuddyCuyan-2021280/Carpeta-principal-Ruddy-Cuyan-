@@ -4,3 +4,8 @@ git config --global user.email @kinal.edu.gt
 
 --*Quitar todas las configuraciones de git (LOCAL PC)*--
 git config --global --unset-all
+
+git init
+git add .
+git commit -m ""
+git push -u origin master
