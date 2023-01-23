@@ -1,2 +1,6 @@
+--*Empezar a configurar mi git*--
 git config --global user.name "..."
 git config --global user.email @kinal.edu.gt
+
+--*Quitar todas las configuraciones de git (LOCAL PC)*--
+git config --global --unset-all
